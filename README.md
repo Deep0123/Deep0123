@@ -46,4 +46,4 @@
 
 [![@justcoding4life's Holopin board](https://holopin.me/justcoding4life)](https://holopin.io/@justcoding4life)
 
-![snake gif](https://github.com/Deep0123/Deep0123/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Deep0123/Deep0123/blob/output/github-contribution-grid-snake.svg)
