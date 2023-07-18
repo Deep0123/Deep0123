@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" width="540"></p>
+<p align="center"><img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="540"></p>
 
 <h1 align="center">Hi 👋, I'm Deepankar Mandal</h1>
 <h3 align="center">A passionate frontend developer and Coder from India</h3>
